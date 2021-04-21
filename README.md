@@ -11,6 +11,6 @@
 - binary search
 - bubble sort
 - insertion sort
-- merge sort
+- merge_then_sort
 
 ## Made with 💓 by Sahil jhangar
