@@ -11,5 +11,6 @@
 - binary search
 - bubble sort
 - insertion sort
+- merge sort
 
 ## Made with 💓 by Sahil jhangar
