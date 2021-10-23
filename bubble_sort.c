@@ -4,7 +4,7 @@ void bubble_sort(int arr[], int num);
 void main(void)
 {
     int arr[size], num;
-    printf("enter  the number of elements you want to insert :\n");
+    printf("enter  the num of elements you want to insert :\n");
     scanf("%d", &num);
     for (int i = 0; i < num; i++)
     {
