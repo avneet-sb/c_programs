@@ -4,7 +4,7 @@ int binary_srch(int arr[], int size, int item);
 void main(void)
 {
     int arr[max], size, index, item;
-    printf("enter the number of elements\t");
+    printf("enter the num of elements\t");
     scanf("%d", &size);
     for (int i = 0; i < size; i++)
     {
